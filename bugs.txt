@@ -1,0 +1,4 @@
+bug-101,bug,Performance_Issue,Low,Minor,b7r,mo'men,f,Open,11/9,"C:\\Users\\b7r_s\\Desktop\\b7r\\wallpapers\\123.jpeg"
+aa,aa,Performance_Issue,Low,Minor,aa,s,f,Closed,2025-12-11,C:\Users\b7r_s\Desktop\b7r\مترو.jpg
+tjyt,ytjtyj,Performance_Issue,High,Minor,tyjtj,s,f,In_Review,2025-12-12,C:\Users\b7r_s\Desktop\b7r\اوقات المحاضرات و السكاشن.jpg
+dsdc,sdcsdc,Performance_Issue,Low,Minor,dscsc,s,f,Open,2025-12-12,C:\Users\b7r_s\Desktop\b7r\اوقات المحاضرات و السكاشن.jpg
